@@ -1,1 +1,2 @@
-# myimage.jpg
+# myimage 
+用于存放博客图片。
